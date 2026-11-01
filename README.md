@@ -28,6 +28,7 @@ The ESC design derives from the open-source Open-4in1-AM32-ESC project. This rep
 - [docs/bringup-and-flashing.md](docs/bringup-and-flashing.md): images, EEPROM values, OpenOCD steps and expected readbacks
 - [docs/motor-mapping.md](docs/motor-mapping.md): FC parameters, am32.ca card table, spin directions
 - [docs/troubleshooting.md](docs/troubleshooting.md): problems met and how they were solved
+- [docs/references.md](docs/references.md): source links for the PCB design, AM32 firmware and bootloader, tools and flight controller documentation
 - [firmware/README.md](firmware/README.md): where the bootloader, firmware and EEPROM values come from
 - [sketches/](sketches/): ESP32 test sketches (bootloader handshake, PWM spin test)
 
