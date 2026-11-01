@@ -18,6 +18,7 @@ The netlist, pad positions and BOM used for the signal-path table in `troublesho
 | --- | --- |
 | AM32 firmware (version 2.21, target `OPENESC_30_F421`) | [github.com/am32-firmware/AM32](https://github.com/am32-firmware/AM32) |
 | AM32 bootloader (v19.0.0, F421 build for the PB4 signal pin) | AM32-bootloader repository of the same project, `am32-firmware/AM32-bootloader` (address not opened in this session; confirm before citing) |
+| Prebuilt firmware files, including `AM32_OPENESC_30_F421_2.21.hex` | [am32.ca/downloads](https://am32.ca/downloads) (the page loads its file list with a script, so it could not be read automatically; the file name comes from the operator's download) |
 | am32.ca web configurator (reading and writing ESC settings through the flight controller) | [am32.ca](https://am32.ca) |
 
 ## Flight controller side
