@@ -40,12 +40,14 @@ The netlist, pad positions and BOM used for the signal-path table in `troublesho
 
 ## Motor and drone hardware
 
-| Item | Source |
+| Item | Used on the drone |
 | --- | --- |
-| GEPRC SPEEDX2 2806.5 1350KV motors | GEPRC product page (add the link you bought from) |
-| Flight controller | SAL-FC GAMUDA Rev A (internal, STM32H743) |
+| Motors | GEPRC SPEEDX2 2806.5 1350KV |
+| Battery | 6S 10,000 mAh LiPo (planned) |
+| Flight controller | SAL-FC GAMUDA Rev A (STM32H743) |
+| Configuration and test tools | Mission Planner, am32.ca |
 
 ## Notes
 
-- Page addresses for ArduPilot, Artery and GEPRC are given at site level. Replace them with the exact page you used when you have it.
+- Page addresses for ArduPilot and Artery are given at site level. Replace them with the exact page you used when you have it.
 - Program and file names in this repository belong to their owners. The AM32 firmware and bootloader binaries are not stored here (see `firmware/README.md`).
