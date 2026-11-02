@@ -36,7 +36,3 @@ The ESC design derives from the open-source Open-4in1-AM32-ESC project. This rep
 ## Safety
 
 The board has no reverse-polarity protection and no fuse. Check polarity twice before every power-up, use a fuse and a series resistor for first power-ups, and keep propellers off until every channel has been tested.
-
-## Notes on provenance
-
-The exact command lines of the first flash on board 1 were not saved. The commands in the docs are the ones used on board 2. Scripts used earlier to build and check the EEPROM image (`make_eeprom.py`, `check_fw.py`) are not included yet.
